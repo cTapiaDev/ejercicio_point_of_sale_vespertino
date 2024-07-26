@@ -1,2 +1,2 @@
-# ejercicio_point_of_sale_vespertino
-# ejercicio_point_of_sale_vespertino
+# Point of Sale
+## Ejercicio Integrador POO
